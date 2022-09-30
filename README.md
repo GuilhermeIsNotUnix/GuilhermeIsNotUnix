@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Griffin](https://github.com/GuilhermeIsNotUnix/Griffin)
 
-- 📫 How to reach me **guilhermefaura@gmail.com**
+- 📫 How to reach me: **guilhermefaura@gmail.com**
 
-- ⚡ Fun fact **Yes, I'm the Metal Guitarist (@faurametalhead)**
+- ⚡ Fun fact: **Yes, I'm the Metal Guitarist (@faurametalhead)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

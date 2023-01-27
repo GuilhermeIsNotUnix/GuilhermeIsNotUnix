@@ -7,7 +7,7 @@
 - 🃏 I’m also currently working on [Gambit](https://github.com/GuilhermeIsNotUnix/Gambit)  
   
 
-- ❓ Ask me about anything related to Physics, Music or Go programming language!  
+- ❓ Ask me about anything related to Physics, Music, Electronics and Go programming language! Those are the things I love.  
   
 
 - ⚡ Fun fact: Yes, I am the Metal Guitarist (@faurametalhead)  

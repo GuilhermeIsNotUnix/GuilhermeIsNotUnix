@@ -1,4 +1,4 @@
-### <div align="center">Hey there, I'm Faura, a mad physicist from Brazil who codes for fun!</div>  
+### <div align="center">Hey, I'm Faura, a mad physicist from Brazil who codes for fun!</div>  
   
 
 - 🐲 I’m currently working on [Griffin](https://github.com/GuilhermeIsNotUnix/Griffin)  

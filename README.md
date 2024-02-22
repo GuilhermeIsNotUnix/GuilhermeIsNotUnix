@@ -1,7 +1,7 @@
 ### <div align="center">Hey, I'm Faura, a mad physicist from Brazil who codes for fun!</div>  
   
 
-- 🐲 I’m currently working on [grifforix](https://github.com/GuilhermeIsNotUnix/grifforix).  
+- 🐲 I’m currently working on [Grifforix](https://github.com/GuilhermeIsNotUnix/grifforix), the secure password generator software made in Java with cryptographically RNG methods.
   
 
 - 🃏 I’m also the author of [Gambit](https://github.com/GuilhermeIsNotUnix/Gambit), the shutdown scheduler utility software for Windows made in Go with Fyne GUI toolkit.  

@@ -1,16 +1,16 @@
 ### <div align="center">Hey, I'm Faura, a mad physicist from Brazil who codes for fun!</div>  
   
 
-- 🐲 I’m currently working on [Grifforix](https://github.com/GuilhermeIsNotUnix/grifforix), the secure password generator software made in Java with cryptographically RNG methods.
+- 🐲 I’m currently working on [grifforix](https://github.com/GuilhermeIsNotUnix/grifforix), the secure password generator software made in Java with CSPRNG methods (Cryptography secure pseudo-random number generator).
   
 
 - 🃏 I’m also the author of [Gambit](https://github.com/GuilhermeIsNotUnix/Gambit), the shutdown scheduler utility software for Windows made in Go with Fyne GUI toolkit.  
   
 
-- ❓ Ask me about anything related to Programming, Computer Networks, Security, Physics, Music, Electronics and especially the Go programming language! Those are the things I love.  
+- ❓ Ask me about anything related to Programming, Linux, Cryptography, Security, Physics and especially the Java programming language! Those are the things I love.  
   
 
-- ⚡ Fun fact: Yes, I am the Metal Guitarist (@faurametalhead) and I do use Linux.  
+- ⚡ Fun fact: Yes, I am the Metal Brazillian Guitarist (IG: @faurametalhead) and also I do educational posts on IG: @guilhermeisnotunix.  
   
 
 <br/>  

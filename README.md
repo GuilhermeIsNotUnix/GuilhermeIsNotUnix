@@ -10,7 +10,7 @@
 
 ❓ Ask me about anything related to Programming, Linux, Physics, Security, Cryptography and especially the Go and Java programming languages! Those are the things I love.<br>
 
-⚡ Fun fact: Yes, I'm the composer Faura Metalhead (@faurametalhead) and I also make educational science and technology posts on Instagram (@guilhermeisnotunix).
+⚡ Fun fact: Yes, I'm the composer Faura Metalhead (@faurametalhead) and I also make educational science and technology posts on Instagram (@fauratomico).
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guilhermeisnotunix) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermefaura) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@GuilhermeIsNotUnix) 

@@ -8,7 +8,7 @@
 
 🃏 I’m also the author of [Gambit](https://github.com/GuilhermeIsNotUnix/Gambit), the shutdown scheduler utility software for Windows, made in Go with Fyne GUI toolkit.<br>
 
-❓ Ask me about anything related to Programming, Linux, Physics, Security, Cryptography and especially the Go and Java programming languages! Those are the things I love.<br>
+❓ Ask me about anything related to Linux, Physics, Security, Numerical Simulations and especially the Go and Swift programming languages! Those are the things I love.<br>
 
 ⚡ Fun fact: Yes, I'm the composer Faura Metalhead (@faurametalhead) and I also make educational science and technology posts on Instagram (@fauratomico).
 

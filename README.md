@@ -10,7 +10,7 @@
 
 ❓ Ask me about anything related to Linux, Physics, Security, Numerical Simulations and especially the Go and Swift programming languages! Those are the things I love.<br>
 
-⚡ Fun fact: Yes, I'm the composer Faura Metalhead (@faurametalhead) and I also make educational science and technology posts on Instagram (@fauratomico).
+⚡ Fun fact: Yes, I'm the composer Faura Metalhead (@faurametalhead) and I also make educational science and technology posts on Instagram (@fauragirierume).
 
 <img align="right" height="150" src="https://i0.wp.com/www.portaldonerd.com.br/wp-content/uploads/2017/01/giphy.gif?fit=500%2C385&ssl=1"  />
 

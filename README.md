@@ -2,6 +2,8 @@
 
 <br>
 
+🍃 I’m the author of [Gimulator](https://github.com/GuilhermeIsNotUnix/Gimulator), a simple simulator made in Python that estimates the value of gravitational acceleration from a known height and a previously performed average experimental time.<br>
+
 🃏 I’m also the author of [Gambit](https://github.com/GuilhermeIsNotUnix/Gambit), the shutdown scheduler utility software for Windows, made in Go with Fyne GUI toolkit.<br>
 
 ❓ Ask me about anything related to Linux, Physics, Security, Numerical Simulations and especially the Go and Python programming languages! Those are the things I love.<br>

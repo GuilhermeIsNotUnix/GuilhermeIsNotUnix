@@ -1,10 +1,6 @@
-### <div align="center">Hey, I'm Faura, a mad physicist from Brazil who also codes professionally and for fun!</div>  
+### <div align="center">Hey, I'm Faura, a mad physicist from Brazil who codes professionally as a Data Scientist and also for fun!</div>  
 
 <br>
-
-🌕 I'm currently working on [Moonbeam](https://github.com/GuilhermeIsNotUnix/Moonbeam), a minimal Markdown text editor that aims to be distraction-free made in the Go programming language and the Fyne GUI toolkit. Maybe in the future it will also become a code editor.<br>
-
-🐲 I’m also working on [grifforix](https://github.com/GuilhermeIsNotUnix/grifforix), a secure password generator software made in Java with CSPRNG methods (Cryptography secure pseudo-random number generator).<br>
 
 🃏 I’m also the author of [Gambit](https://github.com/GuilhermeIsNotUnix/Gambit), the shutdown scheduler utility software for Windows, made in Go with Fyne GUI toolkit.<br>
 
@@ -24,6 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="30" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="fedora logo"  />
   <img width="12" />

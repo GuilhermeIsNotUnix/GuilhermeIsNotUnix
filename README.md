@@ -1,14 +1,14 @@
-### <div align="center">Hey, I'm Faura, a mad physicist from Brazil who codes professionally as a Data Scientist and also for fun!</div>  
+### <div align="center">Hey, I'm G. Faura, a mad physicist from Brazil who codes professionally as a Data Scientist and also for fun!</div>  
 
 <br>
 
 🎴​​ I’m the author of [Yotei](https://github.com/GuilhermeIsNotUnix/Yotei), the shutdown scheduler utility software for Linux, Windows and MacOS, made in Dart with a CLI interface and a Flutter GUI in development.<br>
 
-🍃 I’m also the author of [Gimulator](https://github.com/GuilhermeIsNotUnix/Gimulator), a simple simulator made in Python that estimates the value of gravitational acceleration from a known height and a previously performed average experimental time.<br>
+🌌 I am also the author of some basic physics simulators, such as [Starlax](https://github.com/GuilhermeIsNotUnix/starlax) (an interactive 3D computer simulation for simulating stellar parallax calculations, written in C++ with Raylib) and [Gimulator](https://github.com/GuilhermeIsNotUnix/Gimulator) (a simple simulator made in Python that estimates the value of gravitational acceleration from a known height and a previously performed average experimental time). <br>
 
-❓ Ask me about anything related to Linux, Physics, Security, Numerical Simulations and especially the Go and Python programming languages! Those are the things I love.<br>
+❓ Ask me about anything related to Linux, Physics, Data Science, Machine Learning and especially the Dart and Python programming languages! Those are the things I love.<br>
 
-⚡ More about me: Yes, in the spare time I am the composer know as "Faura Metalhead" (@faurametalhead) — the Cello and Electric Guitar player and I also make educational science and technology posts on Instagram (@efeitocafeniano).
+🎸🧲🥋🇯🇵 More about me: I make educational science and technology posts on Instagram and YouTube (IG: @efeitocafeniano) and I'm also the composer known as "Faura Metalhead" (IG: @fauraguilherme). In my free time, I enjoy practicing Judo, and I’m also passionate about Japanese culture and history; I’m studying the language and hope to live in Japan one day. ありがとうございます。 <br>
 
 <img align="right" height="150" src="https://i0.wp.com/www.portaldonerd.com.br/wp-content/uploads/2017/01/giphy.gif?fit=500%2C385&ssl=1"  />
 
